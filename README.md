@@ -1,6 +1,7 @@
 # 基于Spring boot, Spring data rest + jpa + MySQL数据库 REST演示
 
 JPA+MYSQL8 数据库连接配置
+
 ~~~properties
 # 服务器访问端口
 server.port=8003
