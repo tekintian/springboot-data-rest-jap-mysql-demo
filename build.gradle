@@ -14,8 +14,8 @@ apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management'
 
 bootJar {
-    baseName = 'gs-accessing-data-rest'
-    version = '0.1.0'
+    baseName = 'springBoot-data-rest-jpa-mysql'
+    version = '0.2.0'
 }
 
 repositories {
